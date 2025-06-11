@@ -5,8 +5,8 @@ This is a web-based Named Entity Recognition (NER) tool powered by a fine-tuned 
 
 ## 🚀 Demo
 
-Try the live app (if deployed):  
-👉 [Your Streamlit Cloud or Hugging Face Space link]
+Try the live app:  
+👉 Coming soon...
 
 ---
 
@@ -79,7 +79,7 @@ pip install -r requirements.txt
 
 ## 🧑‍💻 Author
 
-Made with ❤️ by [Prasanna](https://github.com/your-username)
+Made with ❤️ by [Prasanna](https://github.com/prasanna-badiger-7)
 
 ---
 
