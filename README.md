@@ -37,7 +37,7 @@ Try the live app:
 ```
 ner-bert-app/
 │
-├── app.py               # Streamlit frontend
+├── app.py               # Gradio app
 ├── ner_model/           # Saved model & tokenizer
 ├── requirements.txt     # Dependencies
 └── README.md
