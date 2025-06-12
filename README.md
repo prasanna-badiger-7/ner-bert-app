@@ -1,7 +1,7 @@
 
 # 🧠 Named Entity Recognition (NER) with BERT
 
-This is a web-based Named Entity Recognition (NER) tool powered by a fine-tuned BERT model, built using PyTorch, Hugging Face Transformers, and Streamlit.
+This is a web-based Named Entity Recognition (NER) tool powered by a fine-tuned BERT model, built using PyTorch, Hugging Face Transformers, and Gradio.
 
 ## 🚀 Demo
 
@@ -15,7 +15,7 @@ Try the live app:
 - 🔎 Extracts and highlights entities in raw text (PER, LOC, ORG, etc.)
 - 💬 Clean and interactive Streamlit UI
 - 🧠 Fine-tuned on the CoNLL-2003 dataset
-- ☁️ Deployable via Streamlit Cloud or Hugging Face Spaces
+- ☁️ Deployable via Hugging Face Spaces
 
 ---
 
