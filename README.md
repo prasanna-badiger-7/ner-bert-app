@@ -74,8 +74,3 @@ pip install -r requirements.txt
 
 Made with ❤️ by [Prasanna](https://github.com/prasanna-badiger-7)
 
----
-
-## 📜 License
-
-MIT License
