@@ -6,7 +6,7 @@ This is a web-based Named Entity Recognition (NER) tool powered by a fine-tuned 
 ## 🚀 Demo
 
 Try the live app:  
-👉 Huggingface[https://prasannabadiger7-bert-ner-gradio.hf.space/?logs=container&__theme=system&deep_link=-08HBmLAbfc]
+👉 ![Huggingface][https://prasannabadiger7-bert-ner-gradio.hf.space/?logs=container&__theme=system&deep_link=-08HBmLAbfc]
 
 ---
 
