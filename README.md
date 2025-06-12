@@ -6,7 +6,7 @@ This is a web-based Named Entity Recognition (NER) tool powered by a fine-tuned 
 ## 🚀 Demo
 
 Try the live app:  
-👉 Coming soon...
+👉 Huggingface[https://prasannabadiger7-bert-ner-gradio.hf.space/?logs=container&__theme=system&deep_link=-08HBmLAbfc]
 
 ---
 
@@ -32,13 +32,6 @@ Try the live app:
    pip install -r requirements.txt
    ```
 
-3. Run the app:
-   ```bash
-   streamlit run app.py
-   ```
-
----
-
 ## 📁 Project Structure
 
 ```
@@ -60,7 +53,7 @@ Fine-tuned `bert-base-cased` on the CoNLL-2003 dataset using Hugging Face Transf
 
 ## 📦 Dependencies
 
-- `streamlit`
+- `gradio`
 - `transformers`
 - `torch`
 
@@ -73,7 +66,7 @@ pip install -r requirements.txt
 
 ## 📸 Example
 
-![Demo Screenshot](demo.png)
+![Demo Screenshot](demo.jpg)
 
 ---
 
